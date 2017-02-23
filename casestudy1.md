@@ -1,5 +1,7 @@
 # Case Study 1: Keywords
 
+**I am learning about Markdown for OER.**
+
 This lesson combines material from two classes:
 Donald Sadoway, Patty Barbera, and Angie Locknar's "3.093 Information Exploration: Becoming a Savvy Scholar, Fall 2006."  
 [http://ocw.mit.edu/courses/materials-science-and-engineering/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006](http://ocw.mit.edu/courses/materials-science-and-engineering/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006)
